@@ -1,5 +1,5 @@
 # TheLandingPage
-This repository contains the HTML/CSS snippet to create a splash page that looks pretty much similar to the one of the finserv company website, Zerodha.
+This repository contains the HTML/CSS snippet to create a splash page that looks pretty much similar to one of the finserv company website, Zerodha.
 
 ## Title
 Almost Homepage of Zerodha
